@@ -1,0 +1,22 @@
+.chat-message-template {
+  background-color: rgba(250, 250, 250, 0.75);
+  border-radius: 20px;
+  border: 1px solid rgba(200, 200, 200, 0.6);
+  padding: 10px 20px;
+  margin: 6px 0 2px 0;
+}
+
+.chat-message-template-header {
+  display: flex;
+  align-items: space-between;
+  justify-content: space-between;
+  margin-bottom: 5px;
+}
+
+.chat-message-template-body {
+}
+
+.chat-message-template-username {
+  font-weight: 600;
+  font-size: medium;
+}

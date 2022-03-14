@@ -1,0 +1,12 @@
+.chat-message-window {
+  border-radius: 20px;
+  padding: 2rem 1.5rem;
+  width: 275px;
+  height: 250px;
+  overflow-y: auto;
+  word-wrap: break-word;
+}
+
+.chat-message-window:hover {
+  background-color: rgba(200, 200, 200, 0.1);
+}

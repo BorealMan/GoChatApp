@@ -1,0 +1,10 @@
+#create-account-form {
+  display: flex;
+  flex-direction: column;
+  width: 125px;
+  min-height: 195px;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: rgba(230, 230, 230, 0.25);
+  border-radius: 20px;
+}
